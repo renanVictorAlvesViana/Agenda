@@ -1,4 +1,4 @@
-module.exports = class Agenda {
+module.exports = class Agenda{
   constructor(Nome, SobreNome, Telefone1, Telefone2, Email, Endereco) {
     this._Nome = Nome;
     this._SobreNome = SobreNome;
