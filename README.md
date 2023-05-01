@@ -1,2 +1,2 @@
 # Agenda
- Agenda usando  POO e javascript puro
+ Agenda de pessoas usando  POO e javascript puro,
